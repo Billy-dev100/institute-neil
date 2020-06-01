@@ -315,7 +315,7 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color: rgb(102, 95, 95);
 }
 
 .bg-gray {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #eccaca;
+  background-color: #ffeeee;
   width: 100%;
   margin-bottom: 0;
 }
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #b30210;
+  color: #ff0202;
 }
 
 .navbar-toggler:focus {
