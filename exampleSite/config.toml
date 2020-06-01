@@ -1,10 +1,10 @@
 baseURL = "https://neil-institute.netlify.app/"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Bretcrown Institute"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -55,7 +55,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/logo-bretcrown-academy.png"
 post_share = true
 [params.map]
 enable = true
