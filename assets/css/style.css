@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #f5f6f8;
+  background-color: #eccaca;
   width: 100%;
   margin-bottom: 0;
 }
@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: #b30210;
 }
 
 .navbar-toggler:focus {
