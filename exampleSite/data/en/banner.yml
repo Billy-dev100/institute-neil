@@ -1,12 +1,14 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Bretcrown Academy
+  content: Statistically, over 75% of traders are unsuccessful in this volatile market.
+    Thus, The Bretcrown Academy was created as a means of finding like-minded committed
+    traders who want to learn how to trade Crude Oil with a high probability of success.
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
